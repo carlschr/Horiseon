@@ -7,7 +7,7 @@ We were given a premade html and css file with the necessary images provided. Ou
 **Changes**: Added a descriptive title, refactored repetitive css rules, added css comments to increase readability, changed div elements to semantic html elements and removed unnecessary classes from those elements. I also took the liberty to try implementing some media queries to reformat the website at smaller screen widths.
 
 **Finished, Refactored Website**: 
-![finished website](./Assets/Horiseon-Completed-Website.png)
+![finished website](../Assets/Horiseon-Completed-Website.png)
 
 **Link to deployed website**: 
-""
+"https://carlschr.github.io/Horiseon/"
